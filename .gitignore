@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SPPIDPlaceSymbol/obj/Debug/SPPIDPlaceSymbol.csproj.AssemblyReference.cache
+/SPPIDPlaceSymbol/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/SPPIDPlaceSymbol/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttributes.cs
